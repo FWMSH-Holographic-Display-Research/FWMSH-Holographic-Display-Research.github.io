@@ -1,9 +1,5 @@
----
-layout: page
-title: Experiment
----
-## Methods
-We utilized Unreal Engine 4’s (UE4) modeling and animation
+I"�	<h2 id="methods">Methods</h2>
+<p>We utilized Unreal Engine 4’s (UE4) modeling and animation
 systems outlined in [6]. Shown in [3], Looking Glass
 provides the HoloPlay plugin that allows simple integration of
 Unreal Engine 4 and the Looking Glass Display by creating
@@ -18,10 +14,10 @@ animations. The Fort Worth Museum of Science and History
 Energy exhibition space was used to record the dwell times and
 types of interactions the displays received from the museum
 guests. We recorded the number of guests (of all ages) and the
-time spent interacting with various elements in the gallery.
+time spent interacting with various elements in the gallery.</p>
 
-## Experiments and Metrics
-At the Fort Worth Museum of Science and History’s Energy
+<h2 id="experiments-and-metrics">Experiments and Metrics</h2>
+<p>At the Fort Worth Museum of Science and History’s Energy
 Gallery, we observed the dwell time of guests in order to
 determine if the light field displays engaged guests in the
 gallery as well as ranked a guest’s interaction with the exhibit
@@ -40,8 +36,9 @@ simple animations, while (2) had a light switch that would
 toggle animations based off of its setting. Finally, our second
 iteration tested how adding more interactivity to a display by
 attaching multiple light switches and more light field displays
-to one board would affect dwell time and interaction type.
+to one board would affect dwell time and interaction type.</p>
 
-<div style="text-align: center"><img src="./img/FirstIter.png"  /></div>
-<br>
-<div style="text-align: center"><img src="./img/SecIter.png"  /></div>
+<div style="text-align: center"><img src="./img/FirstIter.png" /></div>
+<p><br /></p>
+<div style="text-align: center"><img src="./img/SecIter.png" /></div>
+:ET

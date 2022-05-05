@@ -1,8 +1,4 @@
----
-layout: page
-title: Results
----
-After recording a total of 105 guests, we found that engagement
+I"Ž<p>After recording a total of 105 guests, we found that engagement
 was very high with all the light field displays. As shown
 in Figure 4, the displays mostly got a 3 in engagement type.
 However, the interactive light field displays gained much more
@@ -19,12 +15,19 @@ as each interactive display needed power for itself and the
 computer it was attached to. Furthermore, the location of the
 displays also had to put the displays around sight-level, as the
 different views could only be displayed on a specific vertical
-tilt.
+tilt.</p>
 
-### First Iteration Results
+<h3 id="first-iteration-results">First Iteration Results</h3>
 
-:-------------------------:|:-----------------------------:
-![F1](./img/FirstEngType.png)|![F2](./img/FirstTotDwell.png)|
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./img/FirstEngType.png" alt="F1" /></td>
+      <td><img src="./img/FirstTotDwell.png" alt="F2" /></td>
+    </tr>
+  </tbody>
+</table>
 
-### Second Iteration Results
-<div style="text-align: center"><img src="./img/SecEngType.png"  /></div>
+<h3 id="second-iteration-results">Second Iteration Results</h3>
+<div style="text-align: center"><img src="./img/SecEngType.png" /></div>
+:ET
