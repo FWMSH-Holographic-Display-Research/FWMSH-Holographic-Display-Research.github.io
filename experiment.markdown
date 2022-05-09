@@ -42,6 +42,14 @@ iteration tested how adding more interactivity to a display by
 attaching multiple light switches and more light field displays
 to one board would affect dwell time and interaction type.
 
+**First Iteration** <br>
+As shown below, our first iteration only had one light switch, with both light field displays attached to it. With the flip of a switch, the lightbulb on the left would turn on and the electron display would start moving the electrons on the right. 
 <div style="text-align: center"><img src="./img/FirstIter.png"  /></div>
 <br>
+
+**Second Iteration** <br>
+Below is a picture of our second iteration. Removing the electron display to save power and limit computer support, we added on two more displays that show different lightbulbs. Along with adding wooden housing to hide wiring and plugs to allow the audience to interact with different lightbulbs, our second iteration had a lot more interactivity and with that, garnered a lot more engagement.
 <div style="text-align: center"><img src="./img/SecIter.png"  /></div>
+
+<br>
+[See our references by clicking here](http://127.0.0.1:4000/references.html)
