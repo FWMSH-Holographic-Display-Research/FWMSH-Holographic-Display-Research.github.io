@@ -52,4 +52,4 @@ Below is a picture of our second iteration. Removing the electron display to sav
 <div style="text-align: center"><img src="./img/SecIter.png"  /></div>
 
 <br>
-[See our references by clicking here](http://127.0.0.1:4000/references.html)
+[See our references by clicking here](https://fwmsh-holographic-display-research.github.io/references.html)

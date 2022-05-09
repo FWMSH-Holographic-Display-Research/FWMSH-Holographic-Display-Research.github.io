@@ -20,4 +20,4 @@ Using a Design-based research approach, we begin to address the following questi
 * What actions, materials, tools or workflows can mitigate those obstacles to increase practical access to light field displays for museum visitors?
 
 <br>
-[See our references by clicking here](http://127.0.0.1:4000/references.html)
+[See our references by clicking here](https://fwmsh-holographic-display-research.github.io/references.html)
